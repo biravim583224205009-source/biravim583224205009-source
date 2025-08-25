@@ -5,3 +5,8 @@ currently studing second year B.tech IT😉
 passionate about c program,pytho,html and css
 from dindigul,Tamil Nadu
 Tech stack 
+language
+c program
+python
+java
+css and HTML
